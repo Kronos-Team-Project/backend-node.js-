@@ -141,5 +141,4 @@ module.exports = {
     update,
     deletecontent,
     readOneBoard,
-    readStar
 };
