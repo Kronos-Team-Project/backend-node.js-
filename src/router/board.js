@@ -5,6 +5,6 @@ router.post('/write', controller.write);
 router.put('/update', controller.update);
 router.delete('/delete', controller.deletecontent);
 router.get('/get', controller.readOneBoard);
-router.get('/star', controller.readStar);
+
 
 module.exports = router;
